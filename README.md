@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ravindra-tabde
-- 👀 I’m interested in data anaysis and Machine Learning
+- 👀 I’m interested in data analysis and Machine Learning
 - 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
